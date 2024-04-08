@@ -15,7 +15,7 @@
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="100dp"
         android:id="@+id/name"
-        android:text="Hello World!"
+        android:text="Have a nice day!"
         />
 
     <ImageView
@@ -38,7 +38,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_marginBottom="100dp"
-        android:text="Button"
+        android:text="Log out"
          />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
