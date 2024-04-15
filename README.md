@@ -20,5 +20,5 @@ Alla views har även ett id för att kunna skilja på de och kunna skapa ett fö
 Det som skapats för uppgiften är en layout i constraint layout där views lägger sig utifrån de begränsningar som angetts. I design lades views in som en textruta, en plats för en bild och en knapp.
 Views fick constraints för att views ska förhålla sig med jämna mellanrum. Efter det lades en margin för att få views att lägga sig mer kompakt. 
 
-
+Screenshot:
 ![screenshot.png](screenshot.png)
